@@ -1,0 +1,304 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The second booke of Primaleon of Greece.And Prince Edward of England Continuing the course of their rare fortunes, knightly aduentures, successe in loue, and admirable escape from verie perillous enchauntments: as the like delightfull historie hath sildome been heard of. Translated out of French by A.M. one of the messengers of her Maiesties chamber.</title>
+            <title>Primaleon (Romance). English. Selections.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1596</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73047</idno>
+            <idno type="STC">STC 20366A</idno>
+            <idno type="STC">ESTC S124829</idno>
+            <idno type="EEBO-CITATION">99898720</idno>
+            <idno type="PROQUEST">99898720</idno>
+            <idno type="VID">152107</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73047)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152107)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2015:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The second booke of Primaleon of Greece.And Prince Edward of England Continuing the course of their rare fortunes, knightly aduentures, successe in loue, and admirable escape from verie perillous enchauntments: as the like delightfull historie hath sildome been heard of. Translated out of French by A.M. one of the messengers of her Maiesties chamber.</title>
+                  <title>Primaleon (Romance). English. Selections.</title>
+                  <author>Munday, Anthony, 1553-1633.</author>
+               </titleStmt>
+               <extent>Pp. [24]+   </extent>
+               <publicationStmt>
+                  <publisher>by Iohn Danter for Cuthbert Burby, and are to be sold at his shop nere the Royall Exchange,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1596.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A translation, by Anthony Munday, of "Histoire de Primaleón de Grèce", a French translation of the anonymous Spanish romance "Primaleon".</note>
+                  <note>Copy filmed at UMI microfilm Early English Books 1475-1640 reel 2015 has leaves A1-4 2L2-4 2M1-4 and 2N1 only.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Palmerin of England (Romance) --  Early works to 1800.</term>
+               <term>Romances, Spanish --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152107:1"/>
+            <p>The ſecond Booke of Primaleon <hi>of Greece. And Prince Edward of</hi> England.</p>
+            <p>
+               <hi>Continuing the courſe of their rare for<g ref="char:EOLhyphen"/>tunes, Knightly Aduentures, ſucceſſe in Loue, and admirable eſcape from verie perillous Enchauntments: As the like delightfull Hiſto<g ref="char:EOLhyphen"/>rie hath ſildome been heard of.</hi>
+            </p>
+            <p>Tranſtated out of French by <hi>A. M.</hi> one of the Meſſengers of her Ma<g ref="char:EOLhyphen"/>ieſties Chamber.</p>
+            <p>
+               <hi>Patere aut abſtine.</hi>
+            </p>
+            <p>Printed at <hi>London</hi> by <hi>Iohn Danter</hi> for <hi>Cuthbert Burby,</hi> and are to be ſold at his ſhop nere the Royall Exchange. <hi>1596.</hi>
+            </p>
+            <pb facs="tcp:152107:2" rendition="simple:additions"/>
+            <pb facs="tcp:152107:2"/>
+            <pb facs="tcp:152107:3" rendition="simple:additions"/>
+            <pb facs="tcp:152107:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:152107:4"/>
+            <pb facs="tcp:152107:4"/>
+            <head>To the right Worſhipfull, Maiſter <hi>Fraunces Young,</hi> of <hi>Brent-Pelham,</hi> in the <hi>Countie of</hi> Hertford <hi>Eſquire, and to the vertuous Gentlewoman Miſtres</hi> Suſan Young <hi>his wife, and my kinde fauouring Miſtres: health and all happi<g ref="char:EOLhyphen"/>neſſe.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>Fter I had ſent vnto your Worſhips, the firſt Part of my tran<g ref="char:EOLhyphen"/>ſlated <hi>Palmerine</hi> of <hi>England,</hi> and conſi<g ref="char:EOLhyphen"/>dered withall, that the ſame tooke his o<g ref="char:EOLhyphen"/>riginal from the third Part of this preſent Hiſtorie of <hi>Primaleon,</hi> which I am now tranſ<g ref="char:EOLhyphen"/>lating and purpoſe (by Gods leaue) ſhortly to publiſh: I thought it neceſſarie to make you both my Patrones of this likewiſe, and the third, when it ſhall bee finiſhed, that yee maye ſee the whole Chronicle of theſe famous Princes in their full perfection. And albeit it was not my hap to
+<pb facs="tcp:152107:5"/>doo the firſt Part of <hi>Primaleon,</hi> (but onely the firſt foure ſheetes thereof) by reaſon of my vr<g ref="char:EOLhyphen"/>gent occaſions at that time: ſo pleaſe yee to read it, it will giue ye the better entraunce into this hi<g ref="char:EOLhyphen"/>ſtorie, though I could haue wiſhed there had been more paines taken in the Tranſlation there<g ref="char:EOLhyphen"/>of. Notwithſtanding, this ſecond Volume, the third, and all the reſt in order, euen to the verie concluſion of <hi>Palmerin</hi> of <hi>Englands</hi> famous hi<g ref="char:EOLhyphen"/>ſtorie, wherof I haue two Parts yet to put forth: will I preſent to you, as my moſt affected Pa<g ref="char:EOLhyphen"/>trones, and to whom I confes myſelfe verie high<g ref="char:EOLhyphen"/>ly beholding. I haue no other meanes, whereby to expreſſe my thankfulnes for ſo manie fauours: I beſeech ye then make acceptance of this, &amp; the reſt in order, with whatſoeuer elſe remaines in me at all times heereafter. So being onely yours at commaund, I humbly take my leaue.</p>
+            <closer>
+               <signed>A: Mundy.</signed>
+            </closer>
+         </div>
+         <div type="printer_to_translator">
+            <pb facs="tcp:152107:5"/>
+            <head>To his good Friend M. <hi>Anthony Mundy.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>Auing met <hi>Primaleons</hi> ſecond Part in the Printing-houſe, whence I haue long loytered, and where it hath been longer looked for, I haue done all my diligence to further the Edition, the rather for that (in my ſimple conceit) I haue not ſeen a Hiſtorie more de<g ref="char:EOLhyphen"/>lectablie continued, nor (to be plaine with ye) anie thing by your ſelfe more pleaſingly tranſlated. I would not be here taken (for commending this) to be a condemner of a<g ref="char:EOLhyphen"/>nie VVorke by you before Engliſhed: yet giue me leaue to note, that reproofe (how euer cauſeleſſe) makes him that can doo well, ſtriue to make his good better, that his be<g ref="char:EOLhyphen"/>gun credite may be the more increaſed, and the needleſſe find-faults abſurditie, more worthely pointed at. This in you haue I eſpecially obſerued, ſince the Tranſlator of <hi>A<g ref="char:EOLhyphen"/>madis de Gaule</hi> his ſecond Part, (ſeeming to dwell farre from neighbors) ſpeaking in his owne praiſe ſaith. That betweene the firſt Part which you tranſlated, and that of his, there ſhould be found more than a dayes difference. This peremptorie conceipt of himſelfe, made me expect ſomwhat extraordinarie, wherein I w<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not dea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'d, for within a few lines I found where he tells vs of a King, that married the Emperour of <hi>Conſtantinople:</hi> which error (beeing but one among manie as groſſe) this bolde Cenſurer will needes caſt vpon the Printer. I tell ye M. <hi>Mundy,</hi> this tutcht me neere, for a hundred ſuch bur<g ref="char:EOLhyphen"/>dens
+<pb facs="tcp:152107:6"/>haue I borne. The cuſtome is common, when an Au<g ref="char:EOLhyphen"/>thor or Tranſlator (either ignorant or negligent) palpa<g ref="char:EOLhyphen"/>bly erre, then the Printer (forſooth) as if hee had deſer<g ref="char:EOLhyphen"/>ued to ſtand with a paper on his head at euerie Stationers ſtall, muſt make a great <hi>Errata,</hi> calling the Title, <hi>Faults eſcaped in the Printing:</hi> when (God knowes) ſhould he let but halfe the faults paſſe of manie ſuch VVriters, he ſhould make them be as well laught at, as an vpſtart at<g ref="char:EOLhyphen"/>turney lately was at a Leete: who beginning to open his Clients Title to the Iudge, ſaid. Vnderſtand Sir, that <hi>Robert Norman</hi> late of <hi>Brampton</hi> Yeoman, tooke to wife <hi>Iohn Beeden,</hi> daughter to <hi>Walter Beeden</hi> of the ſame pariſh widdow: whereat the whole Court laughing, he would haue laid the burden on his man, who in draw<g ref="char:EOLhyphen"/>ing his Remembrances, had writ <hi>Iohn</hi> for <hi>Ione,</hi> &amp; <hi>Wal<g ref="char:EOLhyphen"/>ter</hi> for <hi>winefride.</hi> I would wiſh that Tranſlator ſo to ex<g ref="char:EOLhyphen"/>cuſe his Kings marriage with the Emperour. Or, let him ſay, he found it ſo in the French Copie (for thoſe Printers are far hence) and becauſe he would be ſingular for tran<g ref="char:EOLhyphen"/>ſlating verbally, being an abſurditie in French, he let it paſſe in Engliſh. But for our Printers in <hi>England</hi> (were he <hi>Diues,</hi> who in theſe dayes can doo more than <hi>Lazarus</hi>) I dare affirme there is none of them will let ſo groſſe a fault paſſe, except of purpoſe to make a groſſe Braggart ridiculous: So leauing him, and wiſhing you to haſten your Tranſlation of the third part. I end.</p>
+            <closer>
+               <signed>
+                  <hi>Your old Well-willer:</hi> H. C. Printer.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:152107:6"/>
+            <head>Of the VVorke and Tranſlation.</head>
+            <lg>
+               <l>IF in opinion of iudiciall wit,</l>
+               <l>
+                  <hi>Primaleons</hi> ſweet Inuention well deſerue:</l>
+               <l>Then he (no leſſe) which hath tranſlated it,</l>
+               <l>Which doth his ſenſe, his forme, his phraſe ob<g ref="char:EOLhyphen"/>ſerue.</l>
+               <l>And in true method of his home-borne ſtile,</l>
+               <l>(Following the faſhion of a French conceate)</l>
+               <l>Hath brought him heere into this famous Ile,</l>
+               <l>Where but a Stranger now hath made his ſeate.</l>
+               <l>He liues a Prince, and comming in this ſort,</l>
+               <l>Shall to his Countrey of your ſame report.</l>
+            </lg>
+            <closer>
+               <signed>M. D.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:152107:7"/>
+            <head>Of the Tranſlation, againſt a Carper.</head>
+            <lg>
+               <l>DElicious phraſe, well follow'd acts of glorie,</l>
+               <l>Mixture of Loue among fierce martiall deedes,</l>
+               <l>(Which great delight vnto the Reader breedes)</l>
+               <l>Hath th'Inuenter kept t'adorne this Storie.</l>
+            </lg>
+            <lg>
+               <l>The ſame forme is obſeru'd by the Tranſlater,</l>
+               <l>
+                  <hi>Primaleon</hi> (ſweet in French) keeps here like grace:</l>
+               <l>Checking that Foole who (with a bluſhles face)</l>
+               <l>To praiſe himſelfe, in Print will be a prater.</l>
+               <l>Peace chattring <hi>Py,</hi> be ſtill, poore <hi>Lazarus:</hi>
+               </l>
+               <l>Rich are his gifts, that thus contenteth vs.</l>
+            </lg>
+            <closer>
+               <signed>H. C.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:152107:7"/>
+            <p>
+               <gap reason="missing" extent="250+ pages">
+                  <desc>〈250… pages missing〉</desc>
+               </gap>the mountaines, with two Lyons in a chaine like a leaſe, and a bow in his hand. Much harme hath hee done béere, ſince he liued among vs, for ſometime hee will ſteale a<g ref="char:EOLhyphen"/>broad into the fleids, and if he méete with any body, hée preſently kills him, which hinders the Tillage of the ground in many places, becauſe none dare follow their buſbandry, for feare of him. And albeit wee haue made diuers aſſemblies, of our people, in hope to diſpatch his life, yet hitherto our labour hath prooued all in vaine, for be weares a Cornet about his necke, which whenſoe<g ref="char:EOLhyphen"/>uer hee wyndeth, ſuddenly comes a number more of his <hi>Patagons</hi> to helpe him: in regard whereof, wee finde it better for vs, not to meddle with him, expecting when the heauens will ſtrike him by his hand, fréeing the world and vs (that way) from his horrible tyrannie.</p>
+            <p>CHAP. XXXIII.</p>
+            <p>How <hi>Primaleon</hi> being on hunting with <hi>Palantine</hi> &amp; di<g ref="char:EOLhyphen"/>uers other, ſtrayed from them with his Squire, &amp; found the <hi>Grand Patagon,</hi> whom he ouercame and vanquiſhed.</p>
+            <div n="33" type="chapter">
+               <pb facs="tcp:152107:8"/>
+               <head>CHAP. XXXIII.</head>
+               <argument>
+                  <p>How <hi>Primaleon</hi> being on hunting with <hi>Palantine</hi> and diuers other, ſtrayed from them with his Squire, and found the <hi>Grand Patagon,</hi> whom hee vanqui<g ref="char:EOLhyphen"/>ſhed, and brought into ſubiection.</p>
+               </argument>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">I</seg>
+                  </hi> Heare great meruailes of ye (Sir) an<g ref="char:EOLhyphen"/>ſwered <hi>Primaleon,</hi> and truly I would gladly ſée a monſter ſo admirable. Ne<g ref="char:EOLhyphen"/>uer deſire the ſight of him, replied <hi>Pa<g ref="char:EOLhyphen"/>lantine,</hi> for in ſooth yee were better ſée the Diuell, than <hi>Patagon.</hi> I pray yee Sir (quoth <hi>Primaleon</hi>) let vs go hunt that way where he abideth, and ſo we may chance to get a ſight of him: but we will put on our armour, to preuent the worſt which may happen. Ile beare ye companie an<g ref="char:EOLhyphen"/>ſwered <hi>Palantine,</hi> albe it I haue no deſire to ſée him. At which words <hi>Primaleon</hi> ſmiled, and arming themſelues preſently, toward the mountaines they ride, with twen<g ref="char:EOLhyphen"/>tie other good Knights in their traine. So long they cha<g ref="char:EOLhyphen"/>ſed on euerie ſide, that at length darke night ouer-tooke them, euen as they rode along a plaine field, where <hi>Pri<g ref="char:EOLhyphen"/>malcon</hi> intreating them to abide till next morning: they yéelded theretoo, and euerie one tooke his reſt, except <hi>Pri<g ref="char:EOLhyphen"/>maleon,</hi> who was deſirous to make himſelfe there ſpoken of by ſome action of honour, worthie note and fame: and doubting leaſt <hi>Palantine</hi> would not guide him directly
+<pb facs="tcp:152107:8"/>to méete with <hi>Patagon,</hi> beholding likewiſe howe euerie one ſlept, ſoftly hee aroſe, and taking no body with him but his Squire <hi>Purente,</hi> ſtraied ſo farre from them in the nights ſeaſon, as when morning appeared, he found him in the midſt of a faire ſpacious wood.</p>
+               <p>At length he eſpied <hi>Patagon,</hi> who had hunted therea<g ref="char:EOLhyphen"/>bout, and was now giuing his Lyons their fées, at which ſight <hi>Primaleon</hi> greatly reioyced. <hi>Patagon</hi> ſéeing him, thinking preſently this was a pray prouided for him, im<g ref="char:EOLhyphen"/>mediatly let ſlip his Lyons, &amp; hartned them on againſt the Knight: who being mounted on the horſe that <hi>Gata<g ref="char:EOLhyphen"/>ru</hi> gaue him, &amp; ſéeing the Lyons come ſo furiouſly againſt him, leapt lightly from his horſe, when the Lyons (not re<g ref="char:EOLhyphen"/>garding him) ſet both vppon the horſe very gréedily. <hi>Pa<g ref="char:EOLhyphen"/>tagon</hi> croſſing an arrowe in his bow, let it fly at y<hi rend="sup">e</hi> Knight, but his Armour béeing of good proofe, it did not hurt him, and he making toward him, gaue him ſuch a thruſt with his Launce, as it pierced quite through both his legges. <hi>Patagon</hi> féeling himſelfe wounded, ſnatched foorth the Launce againe, and darted it at the Knight, who eſpied it comming, and therefore quickly ſtept aſide, ſetting hand to his ſword to draw it foorth: but <hi>Patagon</hi> hauing a great Courtlar, ſmote ſo ſtrongly therewith vppon the Knights Shéeld, that he cleft it in two parts, for which he was requited with two ſuch ſound ſtrokes, as <hi>Patagon</hi> imagined himſelfe more than halfe dead already. Wher<g ref="char:EOLhyphen"/>fore, caſting both his bow and Courtlax on the ground, &amp; forgetting to cal for helpe with his Cornet, he ran to get feyzment on his enemies body, thinking to ſtrangle him betwéene his armes: but he ſuddenly gaue backe, &amp; wat<g ref="char:EOLhyphen"/>ched him ſuch a blow with his ſworde on the right arme, that he pared away moſt part of the fleſh, cutting off his hand likewiſe, which fell downe to the ground. Nowe through the grieuous paine he felt by his wounds, as alſo his loſſe of blood, which dyed the graſſe round about him, he was no longer able to ſtand on his legs, but falling on
+<pb facs="tcp:152107:9"/>the earth, roared ſo dreadfully, as it would haue terreſied the very ſteuteſt hart in the world to heare him. At this noyſe, the Lyens forſooke the horſe, running toward the Knight with woonderful fury: new it ſtood him on to bee hardy and valiant, for the Lyons rent his armor in diuers places, giuing him (withall) foure or fiue great wounds: but he thruſt his ſwoord through y<hi rend="sup">e</hi> ones belly, which made him ſtretch himſelfe along on the ground dead, and tur<g ref="char:EOLhyphen"/>ning backe on the other, cleft his head in two pieces with his weapon thus was he rid of the Lyons both together. Nor was he vnmindfull to thanke God for this good ſuc<g ref="char:EOLhyphen"/>ceſſe, neither did his owne hurtes any way diſmay him, but leauing the Lyons, he came to the <hi>Graund Patagon,</hi> beeing deſirous (ſéeing him ſo ſtrangely ſhapen) to take him thence with him as his priſoner, thinking it would be a great honour, to haue him embarqued, and make a preſent of him to Quéene <hi>Grydonia.</hi>
+               </p>
+               <p>Then calling <hi>Purente</hi> to him, who was greatly aſtoni<g ref="char:EOLhyphen"/>ed at this miſſhapen ſight, &amp; reioyced that his maſter had eſcaped ſuch danger: Lyſt a while, quoth <hi>Primaleon,</hi> and let vs deuiſe, how we may get hence this infernall furie, that my miſtreſſe <hi>Grydonia</hi> might haue a ſight of him. I know not, ſaid <hi>Porente,</hi> how it can poſſibly be done, be<g ref="char:EOLhyphen"/>cauſe he is ſo ſore wounded: neuertheleſſe, we wil try all likely meanes to accompliſh your deſire.</p>
+               <p>So taking the chaine, wherewith he vſed to leaſhe his Lyons togither, they faſſned it about his neck, whereat he gaue ſuch another loude ſhrieke, as called two other of his ſauage <hi>Patagons,</hi> with long ſharpe pointed yrons in their hands: which (notwithſtanding) were likewiſe van<g ref="char:EOLhyphen"/>quiſhed by <hi>Primaleon,</hi> though indéed with much a doo, in regard he was ſo dangerouſly wounded.</p>
+               <p>Hauing breathed and reſted himſelfe there awhile, he concluded to depart thence; but he could not deuiſe how to get <hi>Patagon</hi> along with him, neither how to help him<g ref="char:EOLhyphen"/>ſelfe, becauſe the Lyons had torne his horſe in pieces.</p>
+               <pb facs="tcp:152107:9"/>
+               <p>Being in this perplexity, it fortuned that <hi>Torques, Palentine,</hi> and all the other whom he left a ſléepe, arriued where hee was: but when they beheld what <hi>Prim<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>leon</hi> had done, they ſtood amazed thereat, and <hi>Torques</hi> aligh<g ref="char:EOLhyphen"/>ting from his horſe, came to <hi>Primaleon</hi> in this manner. Beleeue me my Lord (quoth he) I may iuſtly complaine of your vnkindneſſe, in forſaking me as yee did all theſe other: albeit I am of ſo ſlender valour, as my helpe will ſtand yee but in little ſted, yet might I in ſeruice haue at<g ref="char:EOLhyphen"/>tended on ye, to doo whatſoeuer liked you to commaund me: Say good my Lord, how chéere ye? for me thinkes your hurts are very offenſiue.</p>
+               <p>I thanke God ſaid <hi>Primaleon,</hi> I find my ſelfe very wel now I haue broght this earneſt deſired enterpriſe to end. <hi>Palentine,</hi> and al the reſt of his company ſo admired this rare accident, as they knew not which way to extol it ſuf<g ref="char:EOLhyphen"/>ficiently.</p>
+               <p>Sir Knight, ſaid <hi>Palantine,</hi> God hath highly fauoured ye, in that you alone haue effected, what this whole Iſland could not doo: now hath <hi>Patagon</hi> his deſerts, for ſhould he haue continued longer in theſe parts, we muſt haue béene enforced to flie our countrey, as vnable to endure his diueliſh cruelty.</p>
+               <p>Well (quoth <hi>Primaleon</hi>) he ſhal now trouble ye no lon<g ref="char:EOLhyphen"/>ger, therefore helpe to lead him along with vs, that they which before feared him, may now at their pleaſure be<g ref="char:EOLhyphen"/>hold him. Sixe of them pricked him forward with their Launces, and <hi>Torques</hi> tooke the Cornet from about his necke, ſetting it to his mouth, for triall of the ſound, and whether any more <hi>Patagons</hi> would come thither or no: but had there not béene ſo many in company, he might full well haue repented his folly, for fiftéene more came run<g ref="char:EOLhyphen"/>ning foorth of the woods vppon them, which in the ende were euery one foyled, <hi>Palentine, Torques</hi> and all the o<g ref="char:EOLhyphen"/>ther Knights ſhewing great valour, and were not a little proud of ſo great a victory.</p>
+               <pb facs="tcp:152107:10"/>
+               <p>All the <hi>Patagons</hi> being diſpatchy, they holp one another to dreſſe their hurts, for not one of them eſcaped vnwoun<g ref="char:EOLhyphen"/>ded: two Knights of <hi>Ormeda</hi> gaue their horſes to <hi>Prima<g ref="char:EOLhyphen"/>leon</hi> and <hi>Torques,</hi> rather chuſing themſelues to trauaile on foote, than ſuffer men of ſo great deſert to bee ſo vnpro<g ref="char:EOLhyphen"/>uided. All the way as they rode, ſuch wunderment was made at the <hi>Graund Patagon,</hi> as euery one enquired, to knowe their deliuerer from ſo hideous a monſter: &amp; when <hi>Primaleon</hi> was ſhewen the<g ref="char:cmbAbbrStroke">̄</g>, imagin you, what triumphs and honours they beſtowed therefore vppon him. The Lord of the Iſland, (to whom <hi>Primaleon</hi> thus farre had diſcloſed himſelfe, that hee was called the Knight of the clouen Rocke) embracing him for this great good for<g ref="char:EOLhyphen"/>tune, ſaid. Pardon me Sir, if I haue not hitherto hono<g ref="char:EOLhyphen"/>red yee to your high deſeruings, and let my ignorance of your vertues, excuſe ſo great an ouerſight. Immediatly he commanded his Chirurgions to haue eſpeciall care of his wounds, as alſo thoſe which the <hi>Graund Patagon</hi> had re<g ref="char:EOLhyphen"/>ceiued, becauſe <hi>Primaleon</hi> was ſo deſirous to kéepe him aliue: but he would not ſuffer them apply any medicines to his hurtes, wiſhing rather to die than bee recouered. <hi>Seluida</hi> (for ſo was the Lords daughter of the Iſland na<g ref="char:EOLhyphen"/>med) came in great feare to ſée <hi>Patagon:</hi> mary hee was well pleaſed in beholding her, and ſhewed himſelfe not ſo rough and impacient, as before he did, participating with the beaſts nature of whom he was engendred, who only delighted in womens company.</p>
+               <p>When they perceiued his gentlenes in the Ladies ſight and how obediently he behaued himſelfe to her, her doubt and feare of him being well remooued: they perſwaded her to come the oftner in his ſight, and ſhee ſo preuailed with him by faire demeanour, that ſhee could gouerne him as ſhe pleaſed, intreating him (by ſignes) to permit his hurts be cured: but he declared by his ſignes, how he had néede of no other Chirurgion than himſelfe, and licking his wounds, with his huge broad tongue, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aue ſhew, that this
+<pb facs="tcp:152107:10"/>was Phiſicke ſufficient for him. Thence forward <hi>Selui<g ref="char:EOLhyphen"/>da</hi> tooke charge of him, leading him vp and downe with her in his chaine, ſo that much good iſſued by the taking of him; for the <hi>Patagons</hi> (afterward) would neuer hurt any one, in the Iſland. <hi>Palantine</hi> and his brethren did manye honours to <hi>Primaleon;</hi> and <hi>Soluida</hi> their ſiſter, hauing di<g ref="char:EOLhyphen"/>uers conferences with him, ſtill laboured to winne him to continue there with them: but all her perſwations pro<g ref="char:EOLhyphen"/>ued in vaine, in regard his affections called him to another place.</p>
+               <p>Now <hi>Palantine</hi> imagined, if any meane might pre<g ref="char:EOLhyphen"/>uaile for his abiding there, it was to giue him his Siſter in marriage, which deuiſe he imparted to his Father, and he (on the other ſide) no leſſe willing thereto than his ſon, ſent him to acquaint <hi>Primaleon</hi> therewith, ſo comming into his chamber, &amp; ſitting downe by him on the beds ſide, he began as followeth. Sir Knight of the clouen Rocke, my father and we all doo loue ye ſo dearely, as wee are ve<g ref="char:EOLhyphen"/>rie loath to forgoe your companie, wherefore he giues you to vnderſta<g ref="char:cmbAbbrStroke">̄</g>d by me, that if you pleaſe to accept my Siſter <hi>Seluida</hi> in marriage, her dowrie ſhall anſwere your own expectation, &amp; he will repute himſelfe happie by enioying ſuch a ſonne.</p>
+               <p>Sir <hi>Palantine</hi> (anſwered <hi>Primaleon</hi>) I thanke both him and you for the great loue ye beare me, <hi>Seluida</hi> is ſo faire and vertuous, as I would account my ſelf fortunate hauing her my wife, if there were not an eſpeciall hinde<g ref="char:EOLhyphen"/>rance in this caſe: then let me plainely tell yee, my hart is els where countermaunded, and in heauens faire fore<g ref="char:EOLhyphen"/>head are my vowes engrauen, which makes mee thinke my ſtay here is ouer tedions, though I could as willingly die, as part from your companie, but that yee perceaue what an vrgent occaſion thereto conſtraineth me.</p>
+               <p>If it be ſo (quoth <hi>Palantine</hi>) then I vow to trauaile a long with you, and neuer to returne hither againe, while you haue any ſeruice wherein to imploy me.</p>
+               <pb facs="tcp:152107:11"/>
+               <p>He accepted his kinde offer, and ſo he went to aduer<g ref="char:EOLhyphen"/>tiſe his father thereof who albeit he was loth to forgo his ſonne, yet for the company of ſo good a Knight, he diſpen<g ref="char:EOLhyphen"/>ſed with fatherly affection, agréeing to his ſons commen<g ref="char:EOLhyphen"/>dable reſolution.</p>
+               <p>
+                  <hi>Primaleon</hi> was no ſooner cured, but prouiſion for depar<g ref="char:EOLhyphen"/>ture as ſpéedily appointed, to the Ladies no little griefe, who had good hope, that better acception would haue been made of her loue, for (indéed) ſhee affected <hi>Primaleon</hi> en<g ref="char:EOLhyphen"/>tirely. Thus by the meanes of her, was <hi>Patagon</hi> embar<g ref="char:EOLhyphen"/>qued, wher taking a heauy farewel of her vain-beſtowed loue, the teares ſtanding like pearles on her faire chéekes, ſhe thus ſpake. Sir Knight of the clouen Rocke, much better had it béene (for me) neuer to haue ſeene ye, for ye take from me my brother <hi>Palantine,</hi> leauing my poore heart fettered in ſtronger chaines, than thoſe wherein <hi>Pa<g ref="char:EOLhyphen"/>tagon</hi> is manacled: but would that mine were compara<g ref="char:EOLhyphen"/>ble to his, then were I aſſured to go along in your compa<g ref="char:EOLhyphen"/>ny with theſe words ſhe went on ſhoare againe, not ha<g ref="char:EOLhyphen"/>uing the patience to heare his anſwere, which mouing co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>paſſion in him, made him thus ſhape his ſpéech to <hi>Palan<g ref="char:EOLhyphen"/>tine.</hi> I am partly ſory, that I cannot doe your ſiſter ſuch ſeruice as I would, and deſertleſſe (on my behalfe) is the loue ſhee beares me: but what I cannot accompliſh for her, ſhall binde me in a ſtricter bond to you, reckoning you alwaies as my déere friend and brother. Now was <hi>Patagon</hi> euermore affraid when he looked on <hi>Primaleon,</hi> for he knew him to be the Knight that vanquiſhed him: therefore when he menaced him, he preſently was hum<g ref="char:EOLhyphen"/>ble, and at his commandement, ſtanding more in feare of him, than any other in the company.</p>
+            </div>
+            <div n="34" type="chapter">
+               <pb facs="tcp:152107:11"/>
+               <head>CHAP. XXXIIII.</head>
+               <argument>
+                  <p>How the Knight that would not ſtay the deliuerance of <hi>Primaleon,</hi> when he was enchanted in the Iſle of <hi>Cantara,</hi> returned home into <hi>Poland,</hi> where he re<g ref="char:EOLhyphen"/>ported the Knight of the clouen Rocks death: the great mone <hi>Gridonia</hi> made for him, and what was ſtrangely tolde her, by the Knight of the encloſed Iſle.</p>
+               </argument>
+               <p>
+                  <seg rend="decorInit">T</seg>Hus ſailes <hi>Primaleon</hi> toward <hi>Polonia,</hi> with all the ſpéed poſſible, earneſtly de<g ref="char:EOLhyphen"/>ſiring to ſée his <hi>Grydonia,</hi> fearing leaſt ſhe ſhould heare ſome ſiniſter tidings of him, and thereby change her minde, to like of ſome other Knight: which doubt in him was altogither néedleſſe, becauſe ſhe could like nor loue any other but he.</p>
+               <p>Now (as ye haue heard beforeone) Knight (of the com<g ref="char:EOLhyphen"/>pany) would néeds be gon from the Iſland of <hi>Cantara</hi> not willing to ſtay the deliuerance of <hi>Primaleon,</hi> becauſe he bare him no good affection: this Knight is now come home into <hi>Poland,</hi> where being in preſence of Quéene mother and <hi>Grydonia,</hi> he declared what had hauned them, and ſaid that the Knight of the clouen Rocke was dead: theſe newes brought <hi>Grydoma</hi> to ſuch extremity of gréefe, that leaning in the lap of Quéene mother, &amp; breathing foorth a ſigh, able to rent a farre ſtronger hart in péeces, ſhe ſayd.</p>
+               <pb facs="tcp:152107:12" rendition="simple:additions"/>
+               <p>Vnhappie wretch that I am, let mee nowe die a moſt deſperate death, ſéeing I haue ouerthrowne the only faire flowre of chiualrie: Theſe wordes ſhe vttered with ſuch intire feeling paſſion, that ſhe fel into a ſwoun for a pretty whiles ſpace: when Quéene mother beholding her in this dangerous eſtate, and fearing her life to bee now on the lateſt period of expectation, clapping her on the chéeke, thus ſaid.</p>
+               <p>Alas ſwéet Daughter, what ſhall I doo with thée? I lookt for vengeance on that traitour <hi>Primaleon,</hi> and ſhall I now ſée thée die, in whome my comfort thereof conſi<g ref="char:EOLhyphen"/>ſted? Ah miſerable mother Quéene, much better were my death, than to ſée my faire hope in this extreamitie: Then turning to the Knight, who had deliuered this falſe meſſage.</p>
+               <p>Away (quoth ſhe) with this blacke tel-tale of ſad miſ<g ref="char:EOLhyphen"/>fortune, for I cannot but thinke him a meſſenger of lies, becauſe if the Knight of the Clouen Rocke were dead, as thou laboureſt ſo to perſwade vs: all the other that went with him, would haue returned as well as thou.</p>
+               <p>Rather tell me (falſe traitour) where haſt thou left him? betraied by ſome trecherie deuiſed in thy diſloyal hart, ra<g ref="char:EOLhyphen"/>ther than otherwiſe; els can no one in the worlde per<g ref="char:EOLhyphen"/>ſwade me, that the famous Knight of the clouen Rocke is dead. After ſhe had thus ſpoken, ſhe caught her Daughter to her againe in her Armes, and by caſting cold water on her face, chafing her temples, and other ſuch like meanes, ſhe recouered her former ſpirits, when looking about her, and ſeeing euerie eye wet with pittie in conſideration of her caſe, ſhe thus began to complaine.</p>
+               <p>Faire Knight of the clouen Rocke, is it certaine that thou art dead? I cannot thinke the auſpitious heauens ſo much enuy my good fortune, neither had they ſo ſlender regard of thée offering thy life to ſo many dangers for my ſake. Be well aſſured, that ſo ſoone as I am more certaine of thy death, my ſoule, which only depended vppon thine,
+<pb facs="tcp:152107:12" rendition="simple:additions"/>will quickly kéepe thée companie, to the end it may enicy the pleaſure and repoſe in another World, which in thys life it was ſo vngently debard of: there ſhalt thou perceiue the vnfained loue I beare thée: for I might be reputed as monſtrous ingratefull, if I would make anie ſpare of my life, ſéeing thou waſt depriued of thine, for my loues ſake. Since firſt thou hadſt knowledge of me, nothing fell to thy ſhare but paine and trauaile, hazarding ſtill thy per<g ref="char:EOLhyphen"/>ſon for defence of mine: now, let not me burie thy kind<g ref="char:EOLhyphen"/>neſſe in obliuion, but by conuerſing with thée familiarly in death, make knowen the true ſympathie of my affecti<g ref="char:EOLhyphen"/>ons with thine. Peraduenture it may be, that I was vn<g ref="char:EOLhyphen"/>worthie to enioy thée as myhuſband, and therefore Hea<g ref="char:EOLhyphen"/>uen thought it méete to cut thée off ſo ſoone, onely to fore<g ref="char:EOLhyphen"/>ſtall me of ſo high a happines, and that <hi>Primaleon</hi> might liue in better aſſurance, than hee did while thou liuedſt: for none in the world was more likely to take downe his preſuming thoughts, than thou, nor anie able to finiſh my ſolemne vow, but onely thou. Theſe and a number ſuch like lamentations ſhe vttered, ſwouning manie times whereby Quéene Mother greatly deſpaired of her life, when weeping ouer her, ſhe thus ſpake.</p>
+               <p>Alas Daughter, why ſéekeſt thou to kill me with this griefe of thine? Had I knowen what entyre loue thou didſt beare the knight, I would haue giuen better ſcope to it, than hether too I haue done. Beléeue not (I pray thée) that hee is dead, becauſe the reporter of theſe newes is a lyer and a traitor, as euermore all his kindred haue béen: let vs ſend for the other which came home with him, to the end we may perfectly know the certain truth of theſe things.</p>
+               <p>Send for them (quoth <hi>Gridonia</hi>) and let vs heare what they ſay, for if the Knight of the clouen Rocke be dead in<g ref="char:EOLhyphen"/>déed, make no queſtion, but I ſhall ſpéedely follow him. After the other people of the ſhippe were brought before them, ſhe commaunded them to tell the truth, in dooing
+<pb facs="tcp:152107:13"/>of, they ſhold ſuſtaine no harme, otherwiſe to aſſure them<g ref="char:EOLhyphen"/>ſelues of greuous puniſhme<g ref="char:cmbAbbrStroke">̄</g>t. Hereon they told how al had happened, that <hi>Purente</hi> likewiſe ſaid, there would a Knight arriue there, who ſhould deliuer him: marie, their Captaine had no will to ſtay there ſuch leaſure, but would néedes depart thence, leauing all the reſt behinde in hope to recouer him.</p>
+               <p>Traitour, ſaid Quéene mother, I knew my conceit of thée would not prooue falſe, fayre daughter, leaue to tor<g ref="char:EOLhyphen"/>ment your ſelfe with theſe tormenting paſſions, your good Knight will return with ſpéed I warrant ye, and all this gréefe ſhalbe conuerted into mirth and iouiſance. After<g ref="char:EOLhyphen"/>ward, the lying Knight was commaunded to priſon, the reſt were ſet frée and recompenced, becauſe they had told the truth; being not faultie in returning backe to <hi>Poland,</hi> in regard their Captaine enforced them theretoo.</p>
+               <p>Theſe tidings were not ſo diſpleſing to both the Quéens onely, but the Infant <hi>Zerphira</hi> tooke them as heauily, yet not daring to expreſſe her gréefe outwardly, ſhe conferred with her priuate thoughts, alleadging her miſfortune to be cauſe of the worthie Knights death. But being a La<g ref="char:EOLhyphen"/>die both wiſe and vertuous, ſhee concealed her ſorrowes verie diſcréetly, vſing manie comfortable perſwaſions to <hi>Gridoma,</hi> deſiring her not to credite the report of her Knights death, but rather to expect his happie return, and that ſpéedely.</p>
+               <p>Siſter (quoth <hi>Gridonia</hi>) I am ſo vnfortunate, and e<g ref="char:EOLhyphen"/>uermore haue béene ſubiect to ſo manie miſhaps, that ra<g ref="char:EOLhyphen"/>ther ill is alwaies readie for me, than good, or anie taſte thereof: and I wunder you expreſſe no more heauines for his death, conſidering what reckoning and eſtéeme hee euer made of you.</p>
+               <p>My gréefe (quoth the Infant) would equal yours, were I aſſured of his death: but reputing it a fable, I were but vnwiſe in néedleſſe hurting of my ſelfe.</p>
+               <p>All this day, <hi>Gridonia</hi> continued like one halfe dead,
+<pb facs="tcp:152107:13"/>refuſing ſuſtenaunce and companie: at night, throwing her ſelfe careleſly vpon her bed, Quéene Mother lay down by her, to comfort her: and ſléepe ſhe could not, till extre<g ref="char:EOLhyphen"/>mitie of heauines enforced both her theretoo.</p>
+               <p>No ſooner were they both aſléepe, but a ſtrange deform<g ref="char:EOLhyphen"/>ed Dwarffe entred the chamber, and taking <hi>Gridonia</hi> by the arme, ſoftly awaked her: whereat ſhe being amazed, and taking him to be <hi>Riſdeno.</hi> ſhe ſaid. Tell me I pray thée, how cameſt thou hither at this vnfit time? where is thy Lord and mine? for Gods ſake tell me, is he aliue or dead? Madam (anſwered the dwarffe) I am not <hi>Riſdeno,</hi> but one (as deſirous as he) to doo ye anie ſeruice, onely for the Knights ſake ye loue ſo déerely, whom you imagine to bee dead, as I gather by your ſad and wofull lamentati<g ref="char:EOLhyphen"/>ons. I come to aſſure ye, that he liues, though (a while) enchaunted, and ſhalbe deliuered by a moſt valiaunt and worthie Knight, who will ſet him frée, that to reuenge your wrongs, hath made himſelfe a priſoner: and of this aſſuredly perſwade your ſelfe, that you ſhall ſée him re<g ref="char:EOLhyphen"/>returne verie ſhortly.</p>
+               <p>Now, in regard ye ſhould not dye with conceit of gréef, I am expreſſely ſent hether to tell yee theſe glad tidings: for ſhould not the Knight of the clouen Rocke finde you well at his comming, I know it would be his death im<g ref="char:EOLhyphen"/>mediately.</p>
+               <p>Theſe newes made <hi>Gridonia</hi> excéeding ioyfull, and looking about for the Dwarffe, ſhe beheld a Man of a tall ſtature, olde and wrinckle-faced, ſtanding by her, which greatly aſtoniſhed her, ſaying. What great wunders are theſe? My friend, by the reuerendfaith thou beareſt to God, I charge thée tell me, if the tidings I haut heard be true or no, and what is become of the Dwarffe that ſpake to me euen now, whome I at the firſt tooke to be <hi>Riſdeno</hi> ſeruant to the Knight of the clouen Rock, whoſe abſence thus gréeueth me?</p>
+               <p>Madame, ſaid the old man, doubt not any thing ye haue
+<pb facs="tcp:152107:14"/>heard, for they are moſt certain: concerning the dwarffe yea aſke for, my ſelfe was he, who did it to acquaint yee with my powerfull ſkill, that the better credit might be gi<g ref="char:EOLhyphen"/>uen to my ſpéeches.</p>
+               <p>My good frend, replyed <hi>Gridonia,</hi> heauen quite ye for this kindnes, how much haue ye eaſed my troubled minde by this gladſome report? But ſéeing your ſkill is ſuch, I pray ye tell me more, concerning the Knight of the clouen Rocke, ſay of what race he is diſcended, ſéeing you are ſo well acquainted with him. Faire Quéene, anſwered the old man, know that the Knight is of ſo high linage, ſuch great valour and eſteeme, as he hath not his equall in the world, except <hi>Primalcon</hi> onely, to whom you beare ſuch deadly hatred: and héere of reſolue your ſelf, no Knight is able to bring ye <hi>Primaleons</hi> head, but this famous Knight of the clouen Rocke, who indéed ſhall giue it ye, and raiſe ye to ſuch dignitie withall, as you ſhalbe the onely happie Ladie of the world. Loue him therefore with all your hart, for yee haue great reaſon to doo ſo: as for deſcribing him more openly to ye, that will I neuer yéeld to, becauſe I ſhould therein offer him no meane iniurie, in regard he deſires to trauaile thus concealed.</p>
+               <p>Alas my friend, replied <hi>Gridonia,</hi> in that poynt I ac<g ref="char:EOLhyphen"/>count my ſelfe moſt vnfortunate, becauſe I can attaine to no certaintie thereof: and ſéeing you refuſe therein to ſa<g ref="char:EOLhyphen"/>tiſfie me, tell me then the reaſon, why he is ſo loth to haue himſelfe knowen. Becauſe hee tooke ſuch an oath (quoth the olde man) when hee left his Countrey; but the tyme will come, when you ſhal better know him, and then wil you eſtéeme your fortune matchleſſe, being Ladie of ſuch a Knight, compleat in all perfections: nor can hee be fel<g ref="char:EOLhyphen"/>lowed by anie one, but he that muſt deliuer him from this Enchauntment, who is of no leſſe vertues than hee, and trauailes (ſhadowed) in ſuch manner as he doth. Great friends will both theſe Knights be in this voyage, but in time hereafter, their loue ſhalbe conuerted to meruailous
+<pb facs="tcp:152107:14"/>hatred, which wil cauſe more griefe in you, than euer (as yet) ye endured: neuertheleſſe, be of good chéere, and diſ<g ref="char:EOLhyphen"/>may not, for all your fortunes ſhall haue a ſucceſſfull con<g ref="char:EOLhyphen"/>cluſion. All this I aduertiſe yee of before hand, to con<g ref="char:EOLhyphen"/>firme your patience the ſtronger, and when ye remember mee, to thinke on theſe ſpéeches, for more (at this time) may I not reueale vnto ye.</p>
+               <p>Ye haue ſaid alreadie <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> much, quoth ſhe, as both reioy<g ref="char:EOLhyphen"/>ceth and aſteniſheth me, I pray God I may ſée the happy time whereof you talke: in meane while, I knowe not how to expreſſe ſufficient <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ratitude vnto ye, for this your kinde preſeruing of my life. Madame, ſaid the old Man, I will require nothing of ye at this time, your gentle of<g ref="char:EOLhyphen"/>fer ſhall ſtay till more néedfull occaſion: rather let me now giue you a gift, which is this King, of verie great vertue, this ſhall aſſure ye, that whatſoeuer ye haue heard of me, is no dreame, but a ſound truth. At theſe words, hee put the Ring vpon her finger, wherein was ſet a moſt fayre Emeralde, which ſhe graciouſly accepted, and while ſhee looked downe but to behold it, the old Man was vaniſhed: ſhe perceiuing the Ring to beautifull, and of great value, looking vp againe, to thanke the olde Man for beſtowing it on her, wundred what was become of him, gréeuing becauſe he had ſo ſuddenly left her, yet determined to be of better courage afterward.</p>
+               <p>This olde Man was the Knight of the Encloſed Iſle, who knowing <hi>Gridonia</hi> at the verie point of death, by the falſe newes of the diſloyall Knight, tranſported him<g ref="char:EOLhyphen"/>ſelfe thorough the ayre, and came thus to comfort her. So troubled was her minde with this ſtraunge accident, that ſhe awaked the Quéene Mother, to whom ſhe ſhew<g ref="char:EOLhyphen"/>ed the Ring, and rehearſed beſide vnto her al the old mans ſpéeches.</p>
+               <p>The aged Quéene admyred her Diſcourſe, aplauding the heauens for theſe ioyfull newes, ſaying: Vndoubted<g ref="char:EOLhyphen"/>ly Daughter, all this cannot chuſe but bee of certaintie,
+<pb facs="tcp:152107:15"/>as partly ye may perſwade your ſelfe, by his great ſkill, entring this place in ſuch ſort as ye haue declared. Chéere vp your hopes than (faire Daughter) and ſo ſoone as the Knight of the clouen Rocke returneth, we wil intreat his trauaile to <hi>Conſtantinople,</hi> becauſe hee is the onely man that muſt reuenge our wrongs vpon <hi>Primaleon,</hi> then in ſhort time after, ſhall both your deſires be effectually con<g ref="char:EOLhyphen"/>cluded. Madame, anſwered <hi>Gridoma,</hi> I ſhall thinke it ouer-long till he be héere arriued, our affaires can haue no good ſucceſſe till then, and gladly would I ſée the Knight, by whom he ſhalbe deliuered: but I could not well vnder<g ref="char:EOLhyphen"/>ſtand all the Wizards woords, becauſe hée ſaid, that to reuenge my wrongs, himſelfe was become a priſoner. It may be the ſame Knight which ſent me <hi>Zerohira,</hi> who is reputed as valiant as the Knight of the clouen Rocke: I pray God it may be he, then will I labour to ſet vnitie be<g ref="char:EOLhyphen"/>twéene them, elſe ſhal I haue but little ioy by their diſſen<g ref="char:EOLhyphen"/>tion. Happen what may (quoth Quéene Mother) God will d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fend them both from harme, beeing ſo valiant as they are reported. In theſe and ſuch like conferences, they ſpent the whole night, vntill ſuch time as breake of daye appeared then did <hi>Gridonia</hi> recite all theſe things againe to <hi>Zerphira,</hi> whereby ſhe receiued great ioy and content<g ref="char:EOLhyphen"/>ment.</p>
+            </div>
+            <pb facs="tcp:152107:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
